@@ -1,0 +1,22 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'ProjectWillowisp' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for ProjectWillowisp
+  pod 'Giphy' 
+  pod 'ImagePicker', :git => 'git@github.com:mathandcoffee/ImagePicker.git', :branch => 'master'
+
+
+  target 'ProjectWillowispTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'ProjectWillowispUITests' do
+    # Pods for testing
+  end
+
+end

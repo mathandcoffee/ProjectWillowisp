@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-ProjectWillowisp/Pods-ProjectWillowisp-frameworks.sh
+${BUILT_PRODUCTS_DIR}/ImagePicker/ImagePicker.framework
+${BUILT_PRODUCTS_DIR}/libwebp/libwebp.framework
+${PODS_XCFRAMEWORKS_BUILD_DIR}/Giphy/GiphyUISDK.framework/GiphyUISDK
