@@ -23,20 +23,21 @@ This is a GNU AGPL licensed software repository. You really, really should read 
 - Hybrid sucks. It's always sucked. Always will suck. Find me a company more than 5 years old that has a Hybrid mobile app as their core product that can actually keep their engineers and customers happy. You won't. You can't. Why? See the first sentence of this answer. In fairness to JetBrains, Kotlin Multiplatform seems to not suck, but is too young to commit to for this project.
 
 2. What's your list of MVP features for the iOS App?
-- Expressive Twitter Style Feed for Images/Gifs/Videos/Text
-- Twitter/Reddit Hybrid Comment-Reply System
-- JWT/Refresh Token Authentication layer
-- Simple-but-beautiful Video Player Support
-- Video Library with Creator and Audience Member customizable collections and filtering
-- Single Image and Image Collection Posts for jpgs, pngs, and gifs (gifs may be limited to single image posts)
-- Highly Customizable In-App Surveys 
+- Expressive Twitter Style Feed for Images/Gifs/Videos/Text - *Done*
+- Twitter/Reddit Hybrid Comment-Reply System - *Done*
+- JWT/Refresh Token Authentication layer - *Done*
+- Simple-but-beautiful Video Player Support - *Done*
+- Video Library with Creator and Audience Member customizable collections and filtering - *Done*
+- Single Image and Image Collection Posts for jpgs, pngs, and gifs (gifs may be limited to single image posts) - *Done*
+- Optional Feature Flags for Subscribers/VIPs*** - *Done*
+- Subscriptions and In App Purchases via [RevenueCat](https://www.revenuecat.com/) - *Done*
+- Content Creator filters on who can see what for Subscriber/VIP audience members*** - *Done*
+- Push Notifications via [OneSignal](https://www.onesignal.com/) - *Done*
+- Highly Customizable In-App Surveys
 - Customizable Donation Petition UI
 - Integrations with `linktr.ee`
 - Customizable Color Scheme/Branding***
-- Optional Feature Flags for Subscribers/VIPs***
-- Subscriptions and In App Purchases via [RevenueCat](https://www.revenuecat.com/)
-- Content Creator filters on who can see what for Subscriber/VIP audience members***
-- Push Notifications via [OneSignal](https://www.onesignal.com/)
+
 - Deep Links
 - Localization
 
